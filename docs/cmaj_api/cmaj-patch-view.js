@@ -55,7 +55,7 @@ export async function createPatchView (patchConnection, preferredType)
             if (view.src)
                 view = undefined;
 
-        const viewModuleURL = view?.src ? view.src : "/cmaj_api/cmaj-generic-patch-view.js";
+        const viewModuleURL = view?.src ? view.src : "/cmajor_replicant/cmaj_api/cmaj-generic-patch-view.js";
         const viewModule = await import (patchConnection.getResourceAddress (viewModuleURL));
         const patchView = await viewModule?.default (patchConnection);
 

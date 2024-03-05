@@ -14,7 +14,7 @@
 //
 //==============================================================================
 
-import * as helpers from "/cmaj_api/cmaj_audio_worklet_helper.js"
+import * as helpers from "./cmaj_api/cmaj_audio_worklet_helper.js"
 
 
 //==============================================================================

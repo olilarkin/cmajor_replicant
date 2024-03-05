@@ -1,5 +1,5 @@
 
-import { PatchConnection } from "/cmaj_api/cmaj-patch-connection.js"
+import { PatchConnection } from "./cmaj-patch-connection.js"
 
 //==============================================================================
 // N.B. code will be serialised to a string, so all `registerWorkletProcessor`s
