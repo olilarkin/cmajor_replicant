@@ -1,6 +1,6 @@
 # cmajor_replicant
 
-[CMAJOR](https://cmajor.dev) port of maximillian "replicant" example
+[Cmajor](https://cmajor.dev) port of maximillian "replicant" example
 
 thanks to Mick Grierson (and Vangelis) for the original...  
 
