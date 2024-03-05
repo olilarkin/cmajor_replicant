@@ -1,0 +1,12 @@
+{
+	"CmajorVersion": 1,
+	"ID": "Replicant",
+	"version": "1.0",
+	"name": "Replicant",
+	"description": "Cmajor port of code by Mick Grierson",
+	"category": "synth",
+	"manufacturer": "Oli Larkin",
+	"website": "https://www.olilarkin.co.uk",
+	"isInstrument": false,
+	"source": "replicant.cmajor"
+}
